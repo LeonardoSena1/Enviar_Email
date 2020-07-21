@@ -1,0 +1,16 @@
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\EnviarEmail.exe
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\EnviarEmail.deps.json
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\EnviarEmail.runtimeconfig.json
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\EnviarEmail.runtimeconfig.dev.json
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\EnviarEmail.dll
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\EnviarEmail.pdb
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.csprojAssemblyReference.cache
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.AssemblyInfoInputs.cache
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.AssemblyInfo.cs
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.dll
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.pdb
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.genruntimeconfig.cache
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.csproj.CopyComplete
+D:\EnviarEmail\EnviarEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\EnviarEmail\EnviarEmail\obj\Debug\netcoreapp3.1\EnviarEmail.csproj.CoreCompileInputs.cache

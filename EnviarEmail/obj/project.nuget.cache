@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVyVGhI2MWiN1sNMBNa9aVcuPW4EGQkjoja6Jx/ZJlrUzuz+CjAcvkq43Px859ZPq1QLi9ZrKUpVakh1F/dSpg==",
+  "success": true,
+  "projectFilePath": "D:\\_Dev\\Enviar_Email\\EnviarEmail\\EnviarEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo Sena\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Leonardo Sena\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
